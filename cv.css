@@ -1,38 +1,28 @@
-@import url("mclibre-pie.css");
-
-/* Paginas web HTML y hojas de estilo CSS   */
-/* Bartolome Sintes Marco                   */
-/* https://www.mclibre.org                   */
-/*                                          */
-/* CSS ejercicio: CurrÃ­culum Vitae (largo)  */
-/*                                          */
-/* 3 de noviembre de 2014                   */
-/*                                          */
+                                     
 
 body {
-    background-color: #eeeeee;
+    background-color:white;
     color: black;
     font-family: sans-serif;
-    text-align: justify;
-}
+    }
 
 h1 {
     color: #333333;
-    font-size: 200%;
+    font-size: 150%;
     text-align: center;
     text-transform: uppercase;
 }
 
 h2 {
     background-color: #888888;
-    color: red;
+    color: blue;
     font-size: 150%;
     text-transform: capitalize;
 }
 
 h3 {
     background-color: #aaaaaa;
-    color: DarkMagenta;
+    color:blue;
     font-size: 130%;
 }
 
@@ -55,7 +45,7 @@ em {
 }
 
 strong {
-    color: green;
+    color: darkgreen;
     font-style: normal;
     font-weight: normal;
 }
